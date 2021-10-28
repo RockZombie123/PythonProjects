@@ -154,7 +154,7 @@ elif ter == 'echo':
 
 elif ter == 'update':
 	print("DELETE 'simulator.py' to succesfully update.")
-	os.system("git clone https://github.com/RockZombie123/PythonProjects/edit/main/simulator.py")
+	os.system("git clone https://github.com/RockZombie123/PythonProjects/blob/main/simulator.py")
 
 else:
     print("-bash: '" + ter + "': command not found")

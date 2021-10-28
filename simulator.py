@@ -153,8 +153,8 @@ elif ter == 'echo':
 	print(echo)
 
 elif ter == 'update':
-	print("Github clone")
-
+	os.system("git clone https://github.com/RockZombie123/PythonProjects/edit/main/simulator.py")
+	print("Cloned into working directory.")
 
 else:
     print("-bash: '" + ter + "': command not found")

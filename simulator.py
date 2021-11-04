@@ -106,7 +106,6 @@ pip installed - prints a list of all the installed modules using pip
 pip3 installed - prints a list of all the installed modules using pip3
 install - installs the application
 delete - deletes the application
-update - updates the simulator
 open - opens a file
 echo - the 'print' function in python
 shutdown - shuts down linux/raspbian
